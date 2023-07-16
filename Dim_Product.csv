@@ -1,0 +1,96 @@
+Product_id,Product_code,Product_name,Product_price,Product_unit,manufacture_date,expiration_date,Product_type,Product_image
+1,2155489658546,"Thùng 24 ly mì khoai tây Cung Đình lẩu tôm chua cay 65g",212000,Thùng,2023-01-01,2023-09-01,1,https://cdn.tgdd.vn/Products/Images/2565/86003/bhx/thung-24-ly-mi-khoai-tay-cung-dinh-lau-tom-chua-cay-65g-202306161432486830_300x300.jpg
+10,2545622665586,"Cháo tươi nhuyễn cho trẻ SG Food tôm và bắp hộp 150g",18000,Gói,2023-01-01,2023-08-05,1,https://cdn.tgdd.vn/Products/Images/2564/227413/bhx/sellingpoint.jpg
+11,2154565555625,"Thùng 24 bịch sữa tiệt trùng ít đường Dutch Lady Canxi & Protein 180ml",135000,Thùng,2023-01-01,2023-08-05,2,https://cdn.tgdd.vn/Products/Images/2386/241457/bhx/-202307011458340799.jpg
+12,2565562521552,"Thùng 48 bịch sữa dinh dưỡng có đường Nutimilk 220m",280000,Thùng,2023-01-01,2023-08-05,2,https://cdn.tgdd.vn/Products/Images/2386/250091/bhx/-202307011509108869.jpg
+13,2154589565854,"Lốc 6 chai sữa chua uống cam SuSu 80ml",24000,Lốc,2023-01-01,2023-08-05,2,https://cdn.tgdd.vn/Products/Images/2944/87076/bhx/loc-6-chai-sua-chua-uong-cam-susu-80ml-202210110918256935.jpg
+14,2154652565845,"Lốc 4 hộp sữa chua uống cam SuSu 110ml",17000,Lốc,2023-01-01,2023-08-05,2,https://cdn.tgdd.vn/Products/Images/2944/89415/bhx/-202305190952004591.jpg
+15,2154525653252,"Lốc 4 hộp sữa chua uống vị dâu TH True Yogurt 180ml",32000,Lốc,2023-01-01,2023-08-05,2,https://cdn.tgdd.vn/Products/Images/2944/84344/bhx/loc-4-hop-sua-chua-uong-vi-dau-th-true-yogurt-180ml-202202231043549839.jpg
+16,2154587589658,"Lốc 4 chai sữa chua uống hương cam tự nhiên TH True Yogurt 180ml",31000,Lốc,2023-01-01,2023-08-05,2,https://cdn.tgdd.vn/Products/Images/2944/198275/bhx/loc-4-chai-sua-chua-uong-huong-cam-tu-nhien-th-true-yogurt-180ml-202104091515499898.jpg
+17,2154658956852,"Kem đặc có đường Ngôi sao Phương Nam Xanh lá lon 380g",20000,Hộp,2023-01-01,2023-08-05,2,https://cdn.tgdd.vn/Products/Images/2526/77411/bhx/kem-dac-co-duong-ngoi-sao-phuong-nam-xanh-la-lon-380g-202202121001210603.jpg
+18,2154565895623,"Sữa đặc có đường Ông Thọ Trắng nhãn vàng lon 380g",31000,Hộp,2023-01-01,2023-08-05,2,https://cdn.tgdd.vn/Products/Images/2526/92440/bhx/sua-dac-co-duong-ong-tho-trang-nhan-vang-lon-380g-202202121010429197.jpg
+19,2154658956223,"Bột thức uống lúa mạch 3in1 Milo Active Go bịch 330g",60000,Bịch,2023-01-01,2023-08-05,2,https://cdn.tgdd.vn/Products/Images/8286/239164/bhx/bot-thuc-uong-lua-mach-3in1-milo-active-go-bich-330g-202307070943451107.jpg
+2,2156525489562,"Mì trộn tương đen Koreno Jjajangmen gói 115g",10500,Gói,2023-01-01,2023-08-05,1,https://cdn.tgdd.vn/Products/Images/2565/178519/bhx/mi-tron-tuong-den-koreno-jjajangmen-goi-115g-202202222233527165.jpg
+20,5254654525668,"Lốc 4 hộp sữa chua ít đường TH True Yogurt 100g",28000,Lốc,2023-01-01,2023-08-05,2,https://cdn.tgdd.vn/Products/Images/7558/238316/bhx/loc-4-hop-sua-chua-it-duong-th-true-yogurt-100g-202202162221051862.jpg
+21,2154658265235,"Phô mai Vinamilk hộp 120g (8 miếng)",30000,Hộp,2023-01-01,2023-08-05,2,https://cdn.tgdd.vn/Products/Images/7599/206646/bhx/pho-mai-vinamilk-hop-120g-8-mieng-202202110806159787.jpg
+22,2546585985556,"Lốc 6 chai sữa bột pha sẵn Ensure Original vani 237ml",230000,Lốc,2023-01-01,2023-08-05,2,https://cdn.tgdd.vn/Products/Images/2382/89087/bhx/loc-6-chai-sua-bot-pha-san-ensure-original-vani-237ml-202307071412336257.jpg
+23,2565845895626,"Riêu tôm thịt 200g",43000,Khay,2023-01-01,2023-08-05,3,https://cdn.tgdd.vn/Products/Images/12718/302539/bhx/rieu-tom-thit-khay-200g-202302111325590351.jpg
+24,2156585564585,"Trứng gà Happy Egg hộp 10 quả",28000,Hộp,2023-01-01,2023-08-05,3,https://cdn.tgdd.vn/Products/Images/8783/293917/bhx/trung-ga-happy-egg-hop-10-qua-202306241535333303.jpg
+25,3522545526544,"Trứng gà Omega Happy Egg hộp 6 quả",31000,hộp,2023-01-01,2023-08-05,3,https://cdn.tgdd.vn/Products/Images/8783/302673/bhx/hop-6-trung-ga-omega-happy-egg-202302141330250378.jpg
+26,3256525654852,"Cơm chiên gà cháy tỏi Cầu Tre 210g",18000,Gói,2023-01-01,2023-08-05,3,https://cdn.tgdd.vn/Products/Images/7259/309442/bhx/3-goi-com-chien-ga-chay-toi-cau-tre-210g-202306161631174711.jpg
+27,2154569856654,"Ba chỉ bò Mỹ Fohla cuộn đông lạnh 250g",80000,Khay,2023-01-01,2023-08-05,3,https://cdn.tgdd.vn/Products/Images/8139/306315/bhx/ba-chi-bo-my-fohla-cuon-dong-lanh-250g-202305131526586277.jpg
+28,3254658595656,"Bắp bò Úc Fohla đông lạnh 250g",84000,Khay,2023-01-01,2023-08-05,3,https://cdn.tgdd.vn/Products/Images/8139/306146/bhx/bap-bo-uc-fohla-dong-lanh-250g-202305181319264984.jpg
+29,3265895665242,"Đầu thăn ngoại bò Hokubee Fohla đông lạnh 250g",229000,Khay,2023-01-01,2023-08-05,3,https://cdn.tgdd.vn/Products/Images/8139/306149/bhx/dau-than-ngoai-bo-hokubee-fohla-dong-lanh-250g-202305181321384473.jpg
+3,2154859658487,"Mì Koreno Jjajangmen ly 68g",10500,Gói,2023-01-01,2023-08-05,1,https://cdn.tgdd.vn/Products/Images/2565/234476/bhx/mi-koreno-jjajangmen-ly-68g-202202241541053884.jpg
+30,3254658565256,"Chả basa viên tôm nhất tấm 200g",19000,Bịch,2023-01-01,2023-08-05,3,https://cdn.tgdd.vn/Products/Images/8782/299844/bhx/-202307100958511267_300x300.jpg
+31,3256458555448,"Râu mực nhập khẩu đông lạnh 500g",49000,Khay,2023-01-01,2023-08-05,4,https://cdn.tgdd.vn/Products/Images/8782/304602/bhx/rau-muc-nhap-khau-dong-lanh-500g-202304210842061082.jpg
+32,2154658956232,"Cá ngừ nướng 300g",55000,Bịch,2023-01-01,2023-08-05,4,https://cdn.tgdd.vn/Products/Images/8782/279674/bhx/ca-ngu-nuong-vi-300g-202205251333023532.jpg
+33,5215465856220,"Sứa cắt sợi 350g",32000,Bịch,2023-01-01,2023-08-05,4,https://cdn.tgdd.vn/Products/Images/8782/222832/bhx/sua-cat-soi-nhat-tam-goi-350g-202208030752385607.jpg
+34,2154652561256,"Khô cá sặc 250gr (3 - 5 con)",62000,Bịch,2023-01-01,2023-08-05,4,https://cdn.tgdd.vn/Products/Images/8782/309193/bhx/kho-ca-sac-250gr-3-5-con-202306161048179084.jpg
+35,5456586464648,"Cà rốt",25000,Kg,NULL,NULL,5,https://cdn.tgdd.vn/Products/Images/8785/303829/bhx/ca-rot-500g-2-5-cu-202307060832500432.jpg
+36,2565648948431,"Bắp cải trắng",15000,Kg,NULL,NULL,5,https://cdn.tgdd.vn/Products/Images/8785/275316/bhx/bap-cai-trang-tui-500gr-1-bap-202205201654550785.jpg
+37,4565644164885,"Đậu bắp 250g (12 - 18 trái)",11000,Khay,NULL,NULL,5,https://cdn.tgdd.vn/Products/Images/8785/271743/bhx/dau-bap-khay-250g-12-18-trai-202205201720304861.jpg
+38,7156516161651,"Khoai tây",25000,Kg,NULL,NULL,5,https://cdn.tgdd.vn/Products/Images/8785/232610/bhx/khoai-tay-tui-500g-202012201803479202.jpg
+39,7315161464855,"Củ tỏi làm sạch 100g",13000,Khay,NULL,NULL,5,https://cdn.tgdd.vn/Products/Images/12439/303391/bhx/cu-toi-lam-sach-an-lac-khay-100g-202303040838254532.jpg
+4,2546589569856,"Mì Koreno vị kim chi gói 100g",13000,Gói,2023-01-01,2023-08-05,1,https://cdn.tgdd.vn/Products/Images/2565/109388/bhx/mi-koreno-vi-kim-chi-goi-100g-202202211723004250.jpg
+40,7311516161512,"Rau má đất 150g",15000,Gói,NULL,NULL,5,https://cdn.tgdd.vn/Products/Images/12439/303371/bhx/rau-ma-dat-toan-phat-khay-150g-202303021541352775.jpg
+41,4856516515512,"Vải thiều Lục Ngạn - Bắc Giang 1kg",29000,Kg,NULL,NULL,5,https://cdn.tgdd.vn/Products/Images/8788/242194/bhx/vai-thieu-luc-ngan-bac-giang-1kg-202306271341205450.jpg
+42,1561511651651,"Dưa lưới tròn ruột cam trái từ 1.3kg",55000,Kg,NULL,NULL,5,https://cdn.tgdd.vn/Products/Images/8788/273734/bhx/dua-luoi-tron-ruot-cam-trai-tu-12kg-tro-len-202303141156396372.jpg
+43,8515616156516,"Bơ 034",15000,Kg,NULL,NULL,5,https://cdn.tgdd.vn/Products/Images/8788/309176/bhx/-202307060814178249.jpg
+44,7564164464842,"Set 5 trái chuối già giống Nam Mỹ",20000,Khay,NULL,NULL,5,https://cdn.tgdd.vn/Products/Images/8788/310204/bhx/set-5-trai-chuoi-gia-giong-nam-my-202307070854074201.jpg
+45,8646546484845,"Sơ ri ",30000,Kg,NULL,NULL,5,https://cdn.tgdd.vn/Products/Images/8788/302674/bhx/so-ri-500g-202305110832507747.jpg
+46,1564648493155,"Bắp hạt đông lạnh Mama Food gói 250g",15000,Gói,2023-01-01,2023-08-05,5,https://cdn.tgdd.vn/Products/Images/7172/240451/bhx/bap-hat-dong-lanh-mama-food-goi-250g-202202170858188274.jpg
+47,3546489498498,"Rau hỗn hợp đông lạnh Mama Food gói 500g",35000,Gói,2023-01-01,2023-08-05,5,https://cdn.tgdd.vn/Products/Images/7172/236775/bhx/sellingpoint.jpg
+48,3145644421554,"Hạt sen tươi 200g",59000,Gói,2023-01-01,2023-08-05,5,https://cdn.tgdd.vn/Products/Images/12439/281507/bhx/hat-sen-tuoi-goi-200g-202205200922424933.jpg
+49,3215446212154,"Khoai mì làm sạch 300g",39000,Gói,2023-01-01,2023-08-05,5,https://cdn.tgdd.vn/Products/Images/12439/303403/bhx/sellingpoint.jpg
+5,2156589575653,"Mì khô gà cay Samyang gói 140g",25000,Gói,2023-01-01,2023-08-05,1,https://cdn.tgdd.vn/Products/Images/2565/96422/bhx/mi-kho-ga-cay-samyang-goi-140g-202202220018427681.jpg
+50,3313316514658,"Đậu đỏ tươi 100g",22000,Gói,2023-01-01,2023-08-05,5,https://cdn.tgdd.vn/Products/Images/12439/303431/bhx/dau-do-tuoi-100g-202303161412236750.jpg
+51,4565121315618,"Gạo thơm đặc sản Neptune ST25 túi 5kg",135000,Túi,2023-01-01,2023-08-05,6,https://cdn.tgdd.vn/Products/Images/2513/248421/bhx/gao-thom-dac-san-neptune-st25-tui-5kg-202306191511488893.jpg
+52,5516514648251,"Gạo thơm A An ST24 túi 5kg",119000,Túi,2023-01-01,2023-08-05,6,https://cdn.tgdd.vn/Products/Images/2513/223907/bhx/sellingpoint.jpg
+53,5566164848516,"Gạo thơm A An ST25 túi 5kg",135000,Túi,2023-01-01,2023-08-05,6,https://cdn.tgdd.vn/Products/Images/2513/236950/bhx/-202207070940033015.jpg
+54,8464115151515,"Bột chiên giòn Meizan gói 150gr",10000,Gói,2023-01-01,2023-08-05,6,https://cdn.tgdd.vn/Products/Images/2388/136237/bhx/bot-chien-gion-meizan-150g-202202101055031961.jpg
+55,7415165115151,"Bột cốt dừa Tấn Sang gói 50g",8000,Gói,2023-01-01,2023-08-05,6,https://cdn.tgdd.vn/Products/Images/2388/234437/bhx/bot-cot-dua-tan-sang-goi-50g-202203211102551548.jpg
+56,8846151123136,"Bột bánh xèo Mikko Hương Xưa gói 500g",28000,Gói,2023-01-01,2023-08-05,6,https://cdn.tgdd.vn/Products/Images/2388/151125/bhx/bot-banh-xeo-mikko-huong-xua-goi-500g-202203211027327766.jpg
+57,8646484851131,"Xúc xích heo dinh dưỡng Vissan gói 175g",21000,Gói,2023-01-01,2023-08-05,6,https://cdn.tgdd.vn/Products/Images/3507/89859/bhx/-202306191010114604.jpg
+58,8631454184841,"Cá ngừ rau củ Dongwon hộp 100g",24000,Hộp,2023-01-01,2023-08-05,6,https://cdn.tgdd.vn/Products/Images/3237/222191/bhx/sellingpoint.jpg
+59,9265616315152,"Cá nục sốt cà nắp giật Lilly hộp 155g",10500,Hộp,2023-01-01,2023-08-05,6,https://cdn.tgdd.vn/Products/Images/3237/149420/bhx/sellingpoint.jpg
+6,2152512365895,"Hủ tiếu bò kho Nhịp Sống 70g",8000,Gói,2023-01-01,2023-08-05,1,https://cdn.tgdd.vn/Products/Images/2965/80160/bhx/hu-tieu-bo-kho-nhip-song-goi-70g-202202101710366351.jpg
+60,4156151612025,"Cá nục sốt cà chua Bigcan lon 140g",17000,Hộp,2023-01-01,2023-08-05,6,https://cdn.tgdd.vn/Products/Images/3237/222609/bhx/sellingpoint.jpg
+61,6145651651515,"Socola dịu ngọt Lotte Ghana thanh 70g",22500,Thanh,2023-01-01,2023-08-05,7,https://cdn.tgdd.vn/Products/Images/6597/303921/bhx/socola-diu-ngot-lotte-ghana-hop-70g-202303101002035796.jpg
+62,6235166141855,"Socola viên Milo Nuggets gói 25g",15000,Gói,2023-01-01,2023-08-05,7,https://cdn.tgdd.vn/Products/Images/6597/197140/bhx/socola-vien-milo-nuggets-goi-25g-202007070831404006.jpg
+63,6365415646848,"Kẹo socola Snickers thanh 35g",15000,Gói,2023-01-01,2023-08-05,7,https://cdn.tgdd.vn/Products/Images/6597/79465/bhx/sellingpoint.jpg
+64,6454844841121,"Kẹo socola sữa M&M's gói 90g",37000,Gói,2023-01-01,2023-08-05,7,https://cdn.tgdd.vn/Products/Images/6597/79462/bhx/sellingpoint.jpg
+65,6531515151616,"Kẹo sữa Uha Tokuno trà xanh gói 58g",29000,Gói,2023-01-01,2023-08-05,7,https://cdn.tgdd.vn/Products/Images/2687/283029/bhx/keo-sua-uha-tokuno-tra-xanh-goi-58g-202206211055280096.jpg
+66,6656484984948,"Kẹo the vị táo xanh Play More hũ 22g",26500,Gói,2023-01-01,2023-08-05,7,https://cdn.tgdd.vn/Products/Images/2687/203630/bhx/keo-the-vi-tao-xanh-play-more-hu-22g-202001311611192526.JPG
+67,6764884851513,"Kẹo Ferrero Confetteria Raffaello hộp 150g",171000,Gói,2023-01-01,2023-08-05,7,https://cdn.tgdd.vn/Products/Images/7199/233237/bhx/keo-ferrero-confetteria-raffaello-hop-150g-202212161514344129.jpg
+68,6821315151555,"Kẹo mềm hương trái cây Sugus gói 210g",43000,Gói,2023-01-01,2023-08-05,7,https://cdn.tgdd.vn/Products/Images/7199/79592/bhx/sellingpoint.jpg
+69,6966414114615,"Kẹo dẻo Yupi Burger gói 84g",32000,Gói,2023-01-01,2023-08-05,7,https://cdn.tgdd.vn/Products/Images/7199/220572/bhx/keo-deo-yupi-burger-goi-96g-202305131358591825.jpg
+7,2154587595625,"Miến mộc Nhật Minh gói 250g",21000,Gói,2023-01-01,2023-08-05,1,https://cdn.tgdd.vn/Products/Images/8160/252769/bhx/mien-moc-nhat-minh-goi-250g-202209230935076877_300x300.jpg
+70,7031115151655,"Kẹo dẻo Yupi Gummi Pizza gói 88g",31000,Gói,2023-01-01,2023-08-05,7,https://cdn.tgdd.vn/Products/Images/7199/220568/bhx/keo-deo-yupi-gummi-pizza-goi-96g-202305030830107668.jpg
+71,7131561651515,"Thùng 24 lon bia Tiger Bạc 330ml",395000,Thùng,2023-01-01,2023-08-05,8,https://cdn.tgdd.vn/Products/Images/2282/77606/bhx/thung-24-lon-bia-tiger-crystal-330ml-202210281228326714.jpg
+72,7213515616515,"Thùng 24 lon bia Sài Gòn Special Sleek 330ml",335000,Thùng,2023-01-01,2023-08-05,8,https://cdn.tgdd.vn/Products/Images/2282/276230/bhx/thung-24-lon-bia-sai-gon-special-sleek-330ml-202306191109155518.jpg
+73,7331681841202,"Rượu soju Chumchurum vị đào 12% chai 360ml",72000,Chai,2023-01-01,2023-08-05,8,https://cdn.tgdd.vn/Products/Images/9498/237757/bhx/ruou-soju-chumchurum-vi-dao-12-360ml-202104261733192574.jpg
+74,7434156151155,"Rượu MG Spirit Vodka Blueberry hương việt quất 5.5% chai 275ml",58000,Chai,2023-01-01,2023-08-05,8,https://cdn.tgdd.vn/Products/Images/9498/239146/bhx/ruou-mg-spirit-vodka-blueberry-huong-viet-quat-55-275ml-202105181846110040.jpg
+75,7515165165155,"6 lon nước ngọt Fanta hương cam 320ml",39000,Lốc,2023-01-01,2023-08-05,8,https://cdn.tgdd.vn/Products/Images/2443/193332/bhx/6-lon-nuoc-ngot-fanta-huong-cam-330ml-202103170036442392.jpg
+76,7635151561566,"6 lon nước ngọt Fanta hương nho 320ml",39000,Lốc,2023-01-01,2023-08-05,8,https://cdn.tgdd.vn/Products/Images/2443/282394/bhx/6-lon-nuoc-ngot-fanta-huong-nho-320ml-202206111342421531.jpg
+77,7731516556666,"6 lon nước ngọt Fanta vị soda kem 320ml",39000,Lốc,2023-01-01,2023-08-05,8,https://cdn.tgdd.vn/Products/Images/2443/143436/bhx/6-lon-nuoc-ngot-fanta-vi-soda-kem-330ml-202105101208593037.jpg
+78,7813131561616,"6 chai nước ngọt Fanta hương xá xị 1.5 lít",78000,Lốc,2023-01-01,2023-08-05,8,https://cdn.tgdd.vn/Products/Images/2443/231429/bhx/6-chai-nuoc-ngot-fanta-huong-xa-xi-15-lit-202110300903202537.jpg
+79,7931135163135,"Bánh xếp Hàn Quốc nhân thịt Bibigo gói 175g",30500,Gói,2023-01-01,2023-08-05,9,https://cdn.tgdd.vn/Products/Images/7258/197507/bhx/-202307030944140612.jpg
+8,2156589568569,"Miến dong cao cấp Miến Vương gói 250g",26000,Gói,2023-01-01,2023-08-05,1,https://cdn.tgdd.vn/Products/Images/8160/212860/bhx/sellingpoint.jpg
+80,7931131516515,"Bánh xếp Hàn Quốc nhân hải sản Mama Food gói 175g",29000,Gói,2023-01-01,2023-08-05,9,https://cdn.tgdd.vn/Products/Images/7258/232419/bhx/banh-xep-han-quoc-nhan-hai-san-mama-food-goi-175g-202202141432192836.jpg
+81,8616516166155,"Bánh healthy mandu nhân tôm Bibigo gói 300g",72000,Gói,2023-01-01,2023-08-05,9,https://cdn.tgdd.vn/Products/Images/7258/298752/bhx/banh-healthy-mandu-nhan-tom-bibigo-goi-300g-202307030941258074.jpg
+82,8231161516165,"Chả cá sợi Kiên Giang Tân Việt Sin gói 250g",30000,Gói,2023-01-01,2023-08-05,9,https://cdn.tgdd.vn/Products/Images/7170/293556/bhx/sellingpoint.jpg
+83,8331661651516,"Lẩu thả long cung Cầu Tre gói 300g",43000,Gói,2023-01-01,2023-08-05,9,https://cdn.tgdd.vn/Products/Images/12538/228972/bhx/lau-tha-long-cung-cau-tre-300g-202211030906380819.jpg
+84,8456315616566,"Dầu đậu nành nguyên chất Simply can 2 lít",130000,Can,2023-01-01,2023-08-05,10,https://cdn.tgdd.vn/Products/Images/2286/79394/bhx/-202306191135497071.jpg
+85,8531516561615,"Đường phèn hạt Hoàng Hải gói 500g",27000,Gói,2023-01-01,2023-08-05,10,https://cdn.tgdd.vn/Products/Images/2804/204364/bhx/duong-phen-hat-hoang-hai-goi-500g-201906251320192270.jpg
+86,8614651516651,"Muối biển Bạc Liêu cao cấp gói 500g",5500,Gói,2023-01-01,2023-08-05,10,https://cdn.tgdd.vn/Products/Images/2803/276059/bhx/muoi-bien-hat-bac-lieu-cao-cap-goi-500g-202210140936368183.jpg
+87,8784646611666,"Muối chấm Hảo Hảo tôm chua cay hũ 120g",17000,Hộp,2023-01-01,2023-08-05,10,https://cdn.tgdd.vn/Products/Images/2803/275670/bhx/muoi-cham-hao-hao-tom-chua-cay-hu-120g-202204130932378969.jpg
+88,8861616151666,"Nước mắm cá cơm đặc sản Hưng Thịnh 40 độ đạm chai 750ml",83000,Chai,2023-01-01,2023-08-05,10,https://cdn.tgdd.vn/Products/Images/2289/76421/bhx/-202307031628001634.jpg
+89,4948494511251,"Lốc 3 cuộn túi rác đen tự huỷ sinh học Bách Hóa XANH 64x78cm (1kg)",56000,Lốc,NULL,NULL,11,https://cdn.tgdd.vn/Products/Images/6553/226085/bhx/loc-3-cuon-tui-rac-den-tu-huy-sinh-hoc-bach-hoa-xanh-64x78cm-1kg-202007291029365115.jpg
+9,2154658956215,"Cháo tươi SG Food tôm thịt rau ngót gói 240g",15000,Gói,2023-01-01,2023-08-05,1,https://cdn.tgdd.vn/Products/Images/2564/206246/bhx/chao-tuoi-sg-food-tom-thit-rau-ngot-goi-270g-202209121640448717.jpg
+90,9313213115515,"Nước rửa chén Mỹ Hảo 5X đậm đặc hương chanh chai 390g",14000,Chai,2023-01-01,2023-08-05,11,https://cdn.tgdd.vn/Products/Images/2387/96131/bhx/-202305241551095609.jpg
+91,9131156165155,"Nước lau sàn Rena hương sả và chanh chai 1 lít",29000,Chai,2023-01-01,2023-08-05,11,https://cdn.tgdd.vn/Products/Images/2510/234279/bhx/nuoc-lau-san-nha-rena-huong-sa-va-chanh-chai-1-lit-202101161813395763.jpg
+92,9235666555415,"Nước thơm xịt vải khử mùi Natucair hương hoa hồng 400ml",55000,Chai,2023-01-01,2023-08-05,11,https://cdn.tgdd.vn/Products/Images/3345/278912/bhx/nuoc-thom-xit-vai-khu-mui-natucair-huong-hoa-hong-400ml-202205060950531049.jpg
+93,9321151156566,"Xịt phòng Pure Air hương hoa oải hương 280ml",39000,Chai,2023-01-01,2023-08-05,11,https://cdn.tgdd.vn/Products/Images/3345/259869/bhx/xit-phong-pure-air-huong-hoa-oai-huong-280ml-202112100941099591.jpg
+94,9315156165161,"Bình xịt muỗi Jumbo Vape F9 hương cam chanh 600ml",59000,Chai,NULL,NULL,11,https://cdn.tgdd.vn/Products/Images/2530/279149/bhx/binh-xit-muoi-jumbo-vape-f9-huong-cam-chanh-600ml-202306151702521519.jpg
+95,9531516151616,"Nước giặt Downy vườn hoa thơm ngát túi 2kg",115000,Túi,NULL,NULL,11,https://cdn.tgdd.vn/Products/Images/2464/213829/bhx/nuoc-giat-downy-vuon-hoa-thom-ngat-tui-2-lit-202211301422135791.jpg
