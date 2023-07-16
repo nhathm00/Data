@@ -1,0 +1,10 @@
+Department_id,Manager_code,Department_name,Address
+PB01,NV01,"Ban giám đốc","Phòng 10-Tầng 3-Tòa Nhà A"
+PB02,NV08,"Phòng sản xuất","Phòng 8-Tầng 3-Tòa Nhà A"
+PB03,NV03,"Phòng nhân sự","Phòng 6-Tầng 3-Tòa Nhà A"
+PB04,NV048,"Phòng tài chính kế toán","Phòng 7-Tầng 3-Tòa Nhà A"
+PB05,NV04,"Phòng kinh doanh","Phòng 1-Tầng 2-Tòa Nhà A"
+PB06,NV05,"Phòng marketing","Phòng 2-Tầng 2-Tòa Nhà A"
+PB07,NV07,"Phòng chăm sóc khách hàng","Phòng 4-Tầng 2-Tòa Nhà A"
+PB08,NV09,"Phòng kỹ thuật ","Phòng 5-Tầng 3-Tòa Nhà A"
+PB09,NV010,"Phòng hành chính tổng hợp","Phòng 4-Tầng 3-Tòa Nhà A"
