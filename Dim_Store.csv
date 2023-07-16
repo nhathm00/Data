@@ -1,0 +1,9 @@
+Store_id,Store_name,Province,District,Ward,Address,Phone_number,Store_image,Note
+1,"CindyG Thảo Điền",79,769,27088,"Số 14 Đường Xuân Thủy",0325689587,hinhcuahang01,"CindyG - Chi nhánh số 1"
+2,"CindyG Võ Văn Ngân",79,769,26815,"Số 4 Võ Văn Ngân",0325689587,hinhcuahang02,"CindyG - Chi nhánh số 2"
+3,"CindyG Đỗ Xuân Hợp",79,769,26848,"352 Đường Đỗ Xuân Hợp",0325689587,hinhcuahang03,"CindyG - Chi nhánh số 3"
+5,"CindyG Nguyễn Trãi Hà Nội",01,009,00355,"273 Đường Nguyễn Trãi",0325689587,hinhcuahang05,"CindyG - Chi nhánh số 5"
+6,"CindyG Châu Văn Liêm Hà Nội",01,019,00632,"480 Đường Châu Văn Liêm",0325689587,hinhcuahang06,"CindyG - Chi nhánh số 6"
+7,"CindyG Trần Cao Vân Đà Nẵng",48,491,20209,"514 Trần Cao Vân",0325689587,hinhcuahang07,"CindyG - Chi nhánh số 7"
+8,"CindyG Cao Xuân Dục Đà Nẵng",48,492,20230,"7 Cao Xuân Dục",0325689587,hinhcuahang08,"CindyG - Chi nhánh số 8"
+9,"CindyG Lê Hữu Trác Đà Nẵng",48,493,20281,"25 Lê Hữu Trác",0325689587,hinhcuahang09,"CindyG - Chi nhánh số 9"
