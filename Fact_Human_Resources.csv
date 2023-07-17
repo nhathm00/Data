@@ -1,4 +1,3 @@
-id,Employee_id,Month_id,Department_id,Position_id,Degree_id,Major_id,Salary_paid,Lunch_allowance,Fuel_allowance,Telephone_allowance,Other_allowances
 0,NV01,202301,PB01,CV01,TD03,CM03,10000000,500000,400000,200000,0
 1,NV01,202302,PB01,CV01,TD03,CM03,20000000,500000,400000,200000,0
 2,NV01,202303,PB01,CV01,TD03,CM03,50000000,500000,400000,200000,0

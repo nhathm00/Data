@@ -1,4 +1,3 @@
-id,Time_id,Product_id,Store_id,Quantity_on_hand,Product_price,Inventory_dollar_value
 0,20230719,1,1,263,212000,55756000
 1,20230719,1,2,213,212000,45156000
 2,20230719,1,3,211,212000,44732000
